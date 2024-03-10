@@ -1,4 +1,4 @@
-# ipsita_portfolio1
+# ipsita_portfolio
 This is my portfolio website.
 # Portfolio Web Application
 
